@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[fieldhello]]></title>
         <description><![CDATA[fieldhello]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fieldhello/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 10:40:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 07:45:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fieldhello/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>from sidewalks to grandwalks</p>]]></description>
+            <link>https://thegrid.ai/fieldhello/from-sidewalks-to-grandwalks/index.html</link>
+            <guid isPermaLink="false">9f31d161-4f54-4b1f-b31d-370cb4c925bd</guid>
+            <pubDate>Fri, 22 Jul 2016 07:45:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>from public participation to public decision-making </p>]]></description>
-            <link>undefined2f958981-12f8-4bf0-b686-1b19af500238/index.html</link>
+            <link>https://thegrid.ai/fieldhello/2f958981-12f8-4bf0-b686-1b19af500238/index.html</link>
             <guid isPermaLink="false">2f958981-12f8-4bf0-b686-1b19af500238</guid>
             <pubDate>Thu, 21 Jul 2016 10:40:58 GMT</pubDate>
         </item>
